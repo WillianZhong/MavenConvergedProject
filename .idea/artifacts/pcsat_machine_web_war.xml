@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pcsat_machine_web:war">
+    <output-path>$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_web/target</output-path>
+    <root id="archive" name="pcsat_machine_web.war">
+      <element id="artifact" artifact-name="pcsat_machine_web:war exploded" />
+    </root>
+  </artifact>
+</component>

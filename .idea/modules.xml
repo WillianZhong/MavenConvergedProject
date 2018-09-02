@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_common/pcsat_common.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_common/pcsat_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_mapper/pcsat_machine_mapper.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_mapper/pcsat_machine_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_pojo/pcsat_machine_pojo.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_pojo/pcsat_machine_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_service/pcsat_machine_service.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_service/pcsat_machine_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_web/pcsat_machine_web.iml" filepath="$PROJECT_DIR$/../PCSAT/pcsat/pcsat_machine/pcsat_machine_web/pcsat_machine_web.iml" />
+    </modules>
+  </component>
+</project>

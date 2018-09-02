@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pcsat_common" />
+        <module name="pcsat_machine_mapper" />
+        <module name="pcsat_machine_pojo" />
+        <module name="pcsat_machine_service" />
+        <module name="pcsat_machine_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pcsat" target="1.8" />
+      <module name="pcsat_common" target="1.8" />
+      <module name="pcsat_machine" target="1.8" />
+      <module name="pcsat_machine_mapper" target="1.8" />
+      <module name="pcsat_machine_pojo" target="1.8" />
+      <module name="pcsat_machine_service" target="1.8" />
+      <module name="pcsat_machine_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
